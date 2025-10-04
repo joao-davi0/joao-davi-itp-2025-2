@@ -1,7 +1,7 @@
 # Introdução a Técnicas de Programação - Unidade 1
-**Aluno**: João Davi dos Santos Araújo
-**Matrícula**: 20250039243
-**Período**: 2025.2
+- **Aluno**: João Davi dos Santos Araújo
+- **Matrícula**: 20250039243
+- **Período**: 2025.2
 
 ## 📁 Estrutura do Projeto
 
