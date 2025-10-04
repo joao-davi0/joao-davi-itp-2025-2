@@ -35,7 +35,7 @@ int main () {
         //Classificação quanto aos lados
         if (l1 == l2 && l2 == l3) {
             printf("Os lados formam um triângulo equilátero.\n");
-        } else if (l1 == l2 || l2 == l3) {
+        } else if (l1 == l2 || l2 == l3 || l1 == l3) {
             printf("Os lados formam um triângulo isósceles.\n");
         } else {
             printf("Os lados formam um triângulo escaleno.\n");
