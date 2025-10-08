@@ -68,7 +68,7 @@
 - ✅ Problema 4: Em busca do tesouro perdido
 
 ## 🎯 Principais Aprendizados
-[Reflita sobre os principais conceitos aprendidos na U1]
+O desenvolvimento do Campo Minado permitiu consolidar os conceitos iniciais da linguagem C. Foi possível compreender melhor o uso de matrizes, o funcionamento de loops e condicionais e a importância da organização modular. 
 
 ## 🔧 Ambiente de Desenvolvimento
 - **SO**: Windows
