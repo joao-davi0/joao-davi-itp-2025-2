@@ -52,14 +52,9 @@
 - ✅ Problema 3: Números colegas
 - ✅ Problema 4: Jogo de dardos
 
-### Semana 4B - Análise e Padrões:
-- ✅ Questões 1-4: Análise de código
-- ✅ Questões 5-11: Implementações
-
 ### Semana 5 - Funções (Parte 1):
 - ✅ Problema 1: Horários das rondas
 - ✅ Problema 2: Primos triplos
-- ✅ Problema 3: Pousando a sonda espacial
 
 ### Semana 6 - Vetores:
 - ✅ Problema 1: MEC - Correção ENEM
