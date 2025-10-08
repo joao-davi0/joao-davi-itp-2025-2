@@ -11,20 +11,22 @@
 
 ## 🚀 Projeto: Jogo de Campo Minado (versão texto)
 
-**Descrição**: --
+**Descrição**: Jogo textual de Campo Minado em C no qual o jogador revela posições em um tabuleiro 5x5 tentando evitar minas ocultas, aplicando lógica e estratégia para vencer.
 
 **Repositório**: https://github.com/joao-davi0/joao-davi-itp-2025-2/
 
-**Vídeo de Demonstração**: --
-
 ### Funcionalidades Implementadas:
-- [Lista das principais funcionalidades]
+- Geração aleatória de minas;
+- Tabuleiro 5x5;
+- Exibição e atualização do campo;
+- Leitura e validação das jogadas;
+- Verificação de vitória ou derrota.
 
 ### Conceitos da U1 Aplicados:
-- Estruturas condicionais: [onde foram usadas]
-- Estruturas de repetição: [onde foram usadas]
-- Vetores: [como foram aplicados]
-- Funções: [quantas e suas responsabilidades]
+- **Estruturas condicionais**: usadas para verificar se o jogador acertou uma mina, venceu o jogo ou informou uma posição inválida.
+- **Estruturas de repetição**: aplicadas nos loops de geração do campo, posicionamento das minas e execução das jogadas até o fim da partida.
+- **Vetores**: utilizados para representar o campo e as posições reveladas.
+- **Funções**: quatro funções principais — uma para gerar o campo, uma para imprimir, uma para processar jogadas e a função `main()` que coordena o jogo.
 
 ## 📚 Listas de Exercícios
 
